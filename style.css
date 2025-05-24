@@ -175,6 +175,7 @@ img.logo-img:hover {
 .judul-cowboy {
     font-weight: 700;
     font-size: 20px;
+    display: block;
     color: #df6951;
     margin-bottom: 20px
 }
