@@ -105,7 +105,7 @@ function startAutoScroll() {
   stopAutoScroll(),
     (autoScrollInterval = setInterval(() => {
       showNextTestimonial();
-    }, 5e3));
+    }, 3e3));
 }
 function stopAutoScroll() {
   clearInterval(autoScrollInterval);
